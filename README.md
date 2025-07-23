@@ -73,13 +73,6 @@ This helps identify the most successful toss strategies used during the tourname
 
 ---
 
-## 📷 Preview
-
-![Main Dashboard](./270ba8a5-31dc-4f92-bc04-e97eb6c8c229.png)
-![Toss Decision Dashboard](./c9742884-92d6-4ba4-bc5e-a18dd308c1c1.png)
-
----
-
 ## ✅ Future Scope
 - Add season comparison from previous years
 - Upload to Tableau Public for web viewing
