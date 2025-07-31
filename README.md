@@ -63,6 +63,10 @@ A separate dashboard to understand match results based on toss decisions:
 This helps identify the most successful toss strategies used during the tournament.
 
 ---
+## Screenshots
+<img width="1177" height="771" alt="Screenshot 2025-07-31 at 3 25 35 PM" src="https://github.com/user-attachments/assets/2e80b603-b6c4-42ce-9590-0f49dc370fd9" />
+<img width="995" height="780" alt="Screenshot 2025-07-31 at 3 26 22 PM" src="https://github.com/user-attachments/assets/d3961098-3b16-4cf5-9878-4b20536cdb3f" />
+
 
 ## 🧭 How to Use
 
